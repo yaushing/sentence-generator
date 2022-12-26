@@ -1,1 +1,1 @@
-# sentence-generator
+**Generates sentences**
